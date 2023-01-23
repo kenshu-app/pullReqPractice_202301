@@ -1,5 +1,5 @@
 # pullReqPractice_202301
 
-## develop
-## かきくけこ
-### 研修太郎
+## develop 競合しろ
+## さしすせそ
+### 研修花子
