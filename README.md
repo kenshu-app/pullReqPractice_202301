@@ -1,5 +1,5 @@
 # pullReqPractice_202301
 
-## develop
+## develop Confirct
 
-### 研修太郎
+### 研修太郎 競合狙い
